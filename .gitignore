@@ -1,8 +1,9 @@
-node_modules
-dist
-build
+/node_modules
+/dist
+/build
+/images
+/css
+.DS_Store
 notes.md
 desktop.ini
 secrets.txt
-.DS_Store
-images
